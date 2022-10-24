@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 
-import Forma from '../Form';
+import Forma from '../Form/Form';
 
 function Modalka({userName}: any) {
 
